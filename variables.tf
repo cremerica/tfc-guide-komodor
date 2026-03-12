@@ -3,11 +3,11 @@
 
 variable "user_name" {
   description = "user name"
-  default     = "tf-user"
+  default     = "tf-user2"
 }
 
 variable "user_email" {
   description = "user email"
-  default     = "tf-user@example.com"
+  default     = "tf-user2@example.com"
 }
 
